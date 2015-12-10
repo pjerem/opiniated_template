@@ -1,11 +1,11 @@
-# opiniated_template
-## Template project for Opiniated.js
+# opinionated_template
+## Template project for Opinionated.js
 
-Opiniated.js is going to be an application generator for the company I work at.
+Opinionated.js is going to be an application generator for the company I work at.
 
 This repo hosts the template of an empty project.
 
-As it name sounds, this generator will be very opiniated and there will be few configuration options as it was decided.
+As it name sounds, this generator will be very opinionated and there will be few configuration options as it was decided.
 
 ### Goals 
 + Keep It Simple, Stupid
@@ -22,5 +22,5 @@ As it name sounds, this generator will be very opiniated and there will be few c
 Simple answer : overkill. 
 I love Yeoman, but where I am, we create a lot of webapps with strictly the same technologies and architecture. It's more simple to have one little tool to generate them all.
 
-### Where is Opiniated.js ?
+### Where is Opinionated.js ?
 The generator itself is still in development and hosted on a private repository while our new workflow is still debatable.
